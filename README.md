@@ -53,10 +53,10 @@ Timestamp-Based Collaboration
 
 ---
 ## 🎥 Demo Video
+YouTube: https://youtu.be/BxKtXaeKL2k
 
 ▶️ **Project Demo (Click to Play)**
-
-[![VidTailor Demo Video](https://img.youtube.com/vi/BxKtXaeKL2k/0.jpg)](https://youtu.be/BxKtXaeKL2k)
+[![VidTailor Demo Video](https://img.youtube.com/vi/BxKtXaeKL2k/maxresdefault.jpg)](https://youtu.be/BxKtXaeKL2k)
 
 > The demo video showcases the adaptive workflow, behavior-driven personalization,
 > and timestamp-based collaborative learning features of VidTailor.
