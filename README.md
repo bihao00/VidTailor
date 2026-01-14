@@ -56,7 +56,8 @@ Timestamp-Based Collaboration
 ## 🎥 Demo Video
 
 ▶️ **Project Demo**  
-- YouTube: https://youtu.be/BxKtXaeKL2k 
+- YouTube: [![VidTailor Demo Video](https://img.youtube.com/vi/BxKtXaeKL2k/maxresdefault.jpg)](https://youtu.be/BxKtXaeKL2k)
+
 
 
 > The video demonstrates the adaptive workflow, personalized practice generation,
