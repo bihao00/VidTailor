@@ -56,8 +56,8 @@ Timestamp-Based Collaboration
 ## 🎥 Demo Video
 
 ▶️ **Project Demo**  
-- YouTube / Bilibili: https://your-video-link-here  
-- or local file: `demo.mp4`
+- YouTube: https://youtu.be/BxKtXaeKL2k 
+
 
 > The video demonstrates the adaptive workflow, personalized practice generation,
 > and timestamp-based collaborative interaction.
